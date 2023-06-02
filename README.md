@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wai Yan Oo</h1>
 <h3 align="center">A passionate full stack developer from Myanmar</h3>
 
-<img href='https://www.mygo.ge/uploads/blog/1584023795.jpg'/>
+<img href="https://www.mygo.ge/uploads/blog/1584023795.jpg" />
 
 - 👨‍💻 All of my projects are available at [https://yatogami-noragami.github.io/portfolio/portfolio.html](https://yatogami-noragami.github.io/portfolio/portfolio.html)
 
